@@ -1,4 +1,4 @@
-# portable_bookmarks
+# Portable Bookmarks
 
 
 ### Install
@@ -16,3 +16,4 @@ Congratulations! You can now use your popup-based extension by clicking the hell
 ### Develop
 
 + [Chrome Extensions Tutorial](https://developer.chrome.com/extensions)
++ [浏览器插件开发-常用API](https://blog.csdn.net/mjzhang1993/article/details/84848985)
