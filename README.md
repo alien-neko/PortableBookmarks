@@ -2,14 +2,14 @@
 
 ### TODO
 
-+ [ ] Local
++ [ ] LocalServer(Flask/Django)
 + [ ] CRUD
 + [ ] Import/Export
-+ [ ] Tag
++ [ ] Tagging
 + [ ] Search
 
 
-### Install
+### Installation
 
 1. Navigate to chrome://extensions in your browser. 
 You can also access this page by clicking on the Chrome menu on the top right side of the Omnibox, 
